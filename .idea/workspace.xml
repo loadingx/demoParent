@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e36dee96-a71d-41db-8dac-3ab89c11f3be" name="Default Changelist" comment="" />
+    <list default="true" id="e36dee96-a71d-41db-8dac-3ab89c11f3be" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/demoCommon/src/main/java/com/hehe/MyStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/demoCommon/src/main/java/com/hehe/MyStudent.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +43,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -99,14 +101,14 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1213" height="67" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1594286347547" />
-    <state x="142" y="0" key="SettingsEditor" timestamp="1594285114209">
+    <state x="142" y="0" key="SettingsEditor" timestamp="1594359227205">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1594285114209" />
-    <state x="179" y="77" key="Vcs.Push.Dialog.v2" timestamp="1594345955294">
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1594359227205" />
+    <state x="179" y="77" key="Vcs.Push.Dialog.v2" timestamp="1594359100857">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="179" y="77" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1594345955294" />
+    <state x="179" y="77" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1594359100857" />
     <state x="320" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1594345353847">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
