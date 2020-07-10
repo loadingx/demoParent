@@ -27,6 +27,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1eRKvrYnlNrQqBag2kznyZ2KYU8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -66,6 +67,7 @@
       <updated>1594279198207</updated>
       <workItem from="1594279203346" duration="1553000" />
       <workItem from="1594281460031" duration="4393000" />
+      <workItem from="1594345354496" duration="525000" />
     </task>
     <servers />
   </component>
@@ -101,6 +103,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1594285114209" />
+    <state x="179" y="77" key="Vcs.Push.Dialog.v2" timestamp="1594345955294">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="179" y="77" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1594345955294" />
     <state x="320" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1594345353847">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
