@@ -6,7 +6,6 @@ import org.springframework.jdbc.core.namedparam.NamedParameterJdbcTemplate;
 
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
-import java.util.ArrayList;
 import java.util.List;
 
 public class StreamTest {
@@ -74,27 +73,33 @@ public class StreamTest {
     }
 
     // 批量执行sql
-    public int batchData(String sql,List<Object> list){
+//    public int batchData(String sql,List<Object> list){
+//
+//        int[] len = jdbcTemplate.batchUpdate(sql, new BatchPreparedStatementSetter() {
+//            @Override
+//            public void setValues(PreparedStatement preparedStatement, int i) throws SQLException {
+//
+//
+//            }
+//
+//            @Override
+//            public int getBatchSize() {
+//                return 0;
+//            }
+//        });
+//
+//        return len.length;
+//
+//    }
+//
+//
+//    String batchSql = "insert into ..." ;
 
-        int[] len = jdbcTemplate.batchUpdate(sql, new BatchPreparedStatementSetter() {
-            @Override
-            public void setValues(PreparedStatement preparedStatement, int i) throws SQLException {
 
 
-            }
-
-            @Override
-            public int getBatchSize() {
-                return 0;
-            }
-        });
-
-        return len.length;
-
-    }
 
 
-    String batchSql = "insert into ..." ;
+
 
 
 
